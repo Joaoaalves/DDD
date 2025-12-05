@@ -15,8 +15,8 @@
       <PackageTags>DDD;</PackageTags>
       <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
 
-      <RepositoryUrl>https://github.com/Joaoaalves/DDD-Essentials</RepositoryUrl>
-      <PackageProjectUrl>https://github.com/Joaoaalves/DDD-Essentials</PackageProjectUrl>
+      <RepositoryUrl>https://github.com/Joaoaalves/DDD</RepositoryUrl>
+      <PackageProjectUrl>https://github.com/Joaoaalves/DDD</PackageProjectUrl>
       <RepositoryType>git</RepositoryType>
     </PropertyGroup>
 
