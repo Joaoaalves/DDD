@@ -1,0 +1,23 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+    <PropertyGroup>
+      <PackageId>Joaoaalves.DDD</PackageId>
+      <Version>0.0.0</Version>
+      <Authors>João Alves</Authors>
+      <Company>João Alves</Company>
+      <Description>Adds DDD utils classes and interfaces</Description>
+      <PackageTags>DDD;</PackageTags>
+      <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+
+      <RepositoryUrl>https://github.com/Joaoaalves/DDD-Essentials</RepositoryUrl>
+      <PackageProjectUrl>https://github.com/Joaoaalves/DDD-Essentials</PackageProjectUrl>
+      <RepositoryType>git</RepositoryType>
+    </PropertyGroup>
+
+</Project>
