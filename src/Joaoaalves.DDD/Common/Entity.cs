@@ -1,4 +1,5 @@
 using Joaoaalves.DDD.Events;
+using Joaoaalves.DDD.Rules;
 
 namespace Joaoaalves.DDD.Common
 {
