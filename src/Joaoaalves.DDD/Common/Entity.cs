@@ -1,3 +1,5 @@
+using Joaoaalves.DDD.Events;
+
 namespace Joaoaalves.DDD.Common
 {
     /// <summary>
