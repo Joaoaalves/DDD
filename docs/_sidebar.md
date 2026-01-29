@@ -1,5 +1,6 @@
-* Joaoaalves.DDD
+<!-- markdownlint-disable  -->
 
+* Joaoaalves.DDD
     - [Introduction](README.md)
     - [Dependencies](dependencies.md)
     - [Quickstart](quickstart.md)
