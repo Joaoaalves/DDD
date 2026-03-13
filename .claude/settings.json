@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:joaoaalves.github.io)"
+    ],
+    "additionalDirectories": [
+      "d:\\Usuários\\João\\Projects\\DDD-Essentials\\.claude"
+    ]
+  }
+}
