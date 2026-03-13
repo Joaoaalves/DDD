@@ -18,3 +18,6 @@
 * Reference
     - [Common Pitfalls](pitfalls.md)
     - [Design Guidelines](design-guidelines.md)
+
+* Tooling
+    - [Claude Code Skill](claude-skill.md)
